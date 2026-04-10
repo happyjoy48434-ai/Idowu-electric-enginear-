@@ -10,7 +10,7 @@ export default function Header() {
           animate={{ opacity: 1, x: 0 }}
           className="text-2xl font-black tracking-tighter text-on-surface"
         >
-          VoltArc Engineering
+          Idowu
         </motion.div>
         
         <nav className="hidden md:flex gap-8 items-center">
